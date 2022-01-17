@@ -62,8 +62,9 @@
  
 <a href="https://www.highlandertech.com.br"><h2>Highlandertech</h2><img src="https://raw.githubusercontent.com/giovanifranz/HighlanderFirstModel/main/public/Logo-Tech-AF-01.png" width="800" height="200"></a>
   
-<a href="https://origamid-web-design-completo.vercel.app/"><h2>Bikcraft - Módulo Web Design Completo da Origamid em React/NextJS</h2><img src="https://raw.githubusercontent.com/giovanifranz/Origamid-Web-Design-Completo-React-NextJS/main/public/img/bikcraft-qualidade.svg"></a>
-  
+<a href="https://origamid-web-design-completo.vercel.app/"><h2>Bikcraft - Módulo Web Design Completo da Origamid utilizando React/NextJS</h2><img src="https://raw.githubusercontent.com/giovanifranz/Origamid-Web-Design-Completo-React-NextJS/main/public/img/bikcraft-qualidade.svg"></a>
+
+<a href="https://mystifying-haibt-8d1775.netlify.app/"><h2>FlexBlog - Múdulo CSS Flexbox da Origamid utilizando React e SASS</h2></a>
 </div>
 
 <!--
