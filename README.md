@@ -1,69 +1,69 @@
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Giovani Franz</h1>
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+- 🔥 Software Engineer | ReactJs | NextJs | NodeJs | NestJs | HTML | CSS | Javascript | Typescript
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
-
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
-
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
-
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
+- 🔭 I’m currently working at [Agi](https://agibank.com.br/)
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br><br>
+
+## 📚 &nbsp;Learning
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=giovanifranz&show_icons=true&theme=vision-friendly-dark" alt="giovanifranz's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanifranz&layout=compact&theme=vision-friendly-dark" alt="giovanifranz's most languages"/>
 </p>
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨‍🦲 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+<p align="left">
+<a href="https://linkedin.com/in/giovanifranz" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="mailto:giovanifranz151@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+<br><br>
 
+## 👨‍💻 &nbsp;Projects
+
+<div style="display: inline_block">
+ 
+<a href="https://www.highlandertech.com.br"><h2>Highlandertech</h2>
+<a href="https://origamid-web-design-completo.vercel.app/"><h2>Bikcraft - Módulo Web Design Completo da Origamid em React/NextJS</h2>
+  
+</div>
 
 <!--
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
