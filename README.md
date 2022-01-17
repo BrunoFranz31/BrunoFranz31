@@ -59,10 +59,12 @@
 ## 👨‍💻 &nbsp;Projects
 
 <div style="display: inline_block">
- 
-<a href="https://www.highlandertech.com.br" target="_blank"><h2>Highlandertech</h2></a>
-<a href="https://origamid-web-design-completo.vercel.app" target="_blank"><h2>Bikcraft - Módulo Web Design Completo da Origamid em React/NextJS</h2></a>
-  
+ <a href="https://www.highlandertech.com.br"><h2>Highlandertech</h2></a>
+    <a href="https://origamid-web-design-completo.vercel.app/"
+      ><h2>
+        Bikcraft - Módulo Web Design Completo da Origamid em React/NextJS
+      </h2></a
+    >
 </div>
 
 <!--
