@@ -67,6 +67,8 @@
 <a href="https://mystifying-haibt-8d1775.netlify.app/"><h2>FlexBlog - Múdulo CSS Flexbox da Origamid utilizando React e SASS</h2></a>
 </div>
 
+<a href="https://vigilant-hoover-b4964e.netlify.app/"><h2>Netflix Clone</h2></a>
+</div>
 <!--
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
