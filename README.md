@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Giovani Franz</h1>
 
-- 🔥 Software Engineer | ReactJs | NextJs | NodeJs | NestJs | HTML | CSS | Javascript | Typescript
+- 🔥 Software Engineer | ReactJs | NextJs | NodeJs | NestJs | Javascript | Typescript | Docker
 
 - 🔭 I’m currently working at [Agi](https://agibank.com.br/)
 
