@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Bruno Franz</h1>
+<h1 align="left">Hello, I'm Bruno Franz!</h1>
 
 - 📚 Student | HTML5 | HTML | JavaScript | C# | CSS | UI Design | UX Design 
 
